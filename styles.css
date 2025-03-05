@@ -1,0 +1,96 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header {
+    /*Border black solid 1px;*/
+    margin-top: 10px;
+    margin-bottom: 150px;
+}
+
+main {
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+h1 {
+    font-size: 6rem;
+    padding-left: 150px;
+    padding-top: 10px;
+    padding-bottom: 50spx;
+} 
+
+h2 {
+    font-size: 4rem;
+}
+
+h3 {
+    font-size: 2rem;
+    font-weight: normal;
+}
+
+/* Colors section*/
+
+.color-container {
+    border: solid lightgrey 2px;
+}
+ 
+.colors {
+    display: flex;
+}
+
+.color-label {
+    margin: 5px;
+}
+
+.color-label p {
+    font-size: 30px;
+    text-align: center; 
+}
+
+#black {
+    background-color: black;
+    color: grey;
+    width: 150px;
+    height: 150px;
+    border: solid lightgrey 1px;
+}
+
+#blue {
+    background-color: blue;
+    color: lightgrey;
+    width: 150px;
+    height: 150px;
+    border: solid lightgrey 1px;
+}
+
+#pink {
+    background-color: pink;
+    color: grey;
+    width: 150px;
+    height: 150px;
+    border: solid lightgrey 1px;
+}
+
+#mint {
+    background-color: #4fe0b0;
+    color: grey;
+    width: 150px;
+    height: 150px;
+    border: solid lightgrey 1px;
+}
+
+#white {
+    background-color: white;
+    color: grey;
+    width: 150px;
+    height: 150px;
+    border: solid lightgrey 1px;
+}
+#biege {
+    background-color: beige;
+    color: gray;
+    width: 150px;
+    height: 150px;
+    border: solid lightgrey 1px;
+}
