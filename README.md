@@ -1,3 +1,6 @@
 # design-system
-project design system for website
- link https://nastassja-91.github.io/design-system/
+
+[project design system for website]
+
+# online
+[Here] (file:///Users/Projects/basic%20design%20system/index.html)
